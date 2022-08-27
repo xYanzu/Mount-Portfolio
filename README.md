@@ -3,7 +3,7 @@
 ## ✂️ A minimalist template portfolio
 
 <h2 align="center">
-  <img src="https://github.com/xYanzu/Mpunt-Portfolio/blob/master/template.png" alt="Mount-Portfolio" width="600px" />
+  <img src="https://github.com/xYanzu/Mpunt-Portfolio/blob/master/template.PNG" alt="Mount-Portfolio" width="600px" />
   <br>
 </h2>
 
@@ -15,8 +15,6 @@
 - ⛰️ Fully responsive
 - ⛰️ Valid HTML5 and CSS3
 - ⛰️ Original and beautiful
-
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
 ---
 
