@@ -3,7 +3,7 @@
 ## ✂️ A minimalist template portfolio
 
 <h2 align="center">
-  <img src="https://github.com/xYanzu/Mpunt-Portfolio/blob/master/template.PNG" alt="Mount-Portfolio" width="600px" />
+  <img src="https://github.com/xYanzu/Mount-Portfolio/blob/main/example/template.PNG" alt="Mount-Portfolio" width="600px" />
   <br>
 </h2>
 
